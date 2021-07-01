@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poller One', cursive;
+    font-size: 25px;
+    color:green;
+}
+
+#heading1 {
+    background-color:lavender;
+}
+#bodytext {
+    background-color:orange;
+}
+
+#col1 {
+    width:500px;
+    position: relative ;
+    right:-100px;
+}
+
+#photos {
+    background-color:lavender;
+    position:relative;
+    left:100px;
+}
+
+#contactus {
+background-color:lavender;
+font-size:25px;
+position: relative;
+left:100px;
+}
